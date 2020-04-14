@@ -1,0 +1,1037 @@
+{
+    "requestId":"bae2ee74-a7ac-4202-ac96-e1b0b12a2f2c",
+    "count":0,
+    "productList":[
+        {
+            "brandId":2,
+            "id":33759219,
+            "brandEnName":"Louis Vuitton",
+            "preSale":"",
+            "secooPrice":3800,
+            "tags":[
+                "自营"
+            ],
+            "lableIoc":"",
+            "picUrl":"51/52/343a7bc709c6428d9026a71ab67807ea.jpg",
+            "showBrand":"LOUIS VUITTON",
+            "isLine":0,
+            "tipPrice":"",
+            "brandCnName":"路易威登",
+            "name":"Louis Vuitton/路易威登 女士帆布/配皮肩带 J02354",
+            "labels":{
+
+            },
+            "categoryId":2695,
+            "rType":null,
+            "priceTag":"",
+            "tipTag":""
+        },
+        {
+            "brandId":291,
+            "id":35922156,
+            "brandEnName":"NIKE",
+            "preSale":"",
+            "secooPrice":1669,
+            "tags":[
+                "自营"
+            ],
+            "lableIoc":"",
+            "picUrl":"55/54/767ae99627e044848a097604743de8e3.jpg",
+            "showBrand":"NIKE",
+            "isLine":0,
+            "tipPrice":"",
+            "brandCnName":"耐克",
+            "name":"Air Jordan 1 Mid小扣碎小黑红AJ1男女鞋554724-054-062",
+            "labels":[
+                "1765",
+                "1188"
+            ],
+            "categoryId":1268,
+            "rType":null,
+            "priceTag":"",
+            "tipTag":""
+        },
+        {
+            "brandId":315,
+            "id":26721796,
+            "brandEnName":"Moncler",
+            "preSale":"",
+            "secooPrice":5183,
+            "tags":[
+                "海外",
+                "自营"
+            ],
+            "lableIoc":"",
+            "picUrl":"50/97/2ab08ca4adaa410ab1df62c415eec9b2.jpg",
+            "showBrand":"MONCLER",
+            "isLine":0,
+            "tipPrice":"",
+            "brandCnName":"蒙克莱",
+            "name":"Moncler/蒙克莱 18年秋冬 男士 logo 横条 黑色 男士羽绒服 94166009699Z 999",
+            "labels":{
+
+            },
+            "categoryId":1683,
+            "rType":null,
+            "priceTag":"",
+            "tipTag":""
+        },
+        {
+            "brandId":361,
+            "id":26035719,
+            "brandEnName":"Etro",
+            "preSale":"",
+            "secooPrice":1328,
+            "tags":[
+                "海外",
+                "自营"
+            ],
+            "lableIoc":"",
+            "picUrl":"54/56/680b02136881406d97e1aa605b434995.jpg",
+            "showBrand":"ETRO",
+            "isLine":0,
+            "tipPrice":"",
+            "brandCnName":"艾特罗",
+            "name":"Etro/Etro 18秋冬 男士短袖T恤 刺绣 圆领 2807",
+            "labels":{
+
+            },
+            "categoryId":1734,
+            "rType":0,
+            "priceTag":"",
+            "tipTag":""
+        },
+        {
+            "brandId":1059,
+            "id":25257872,
+            "brandEnName":"ERMENEGILDO ZEGNA",
+            "preSale":"",
+            "secooPrice":2543,
+            "tags":[
+                "海外",
+                "自营"
+            ],
+            "lableIoc":"",
+            "picUrl":"55/52/743b96d59b1a452fb789cdb358a7f584.jpg",
+            "showBrand":"ERMENEGILDO ZEGNA",
+            "isLine":0,
+            "tipPrice":"",
+            "brandCnName":"杰尼亚",
+            "name":"【18春夏】 ERMENEGILDO ZEGNA/杰尼亚 男士短袖T恤 百搭 修身 3032",
+            "labels":{
+
+            },
+            "categoryId":1734,
+            "rType":0,
+            "priceTag":"",
+            "tipTag":""
+        },
+        {
+            "brandId":36,
+            "id":32583100,
+            "brandEnName":"Yves saint Laurent",
+            "preSale":"",
+            "secooPrice":420,
+            "tags":[
+                "海外",
+                "直降",
+                "自营"
+            ],
+            "lableIoc":"",
+            "picUrl":"51/10/3dfd240b140045fd98b00797b1a93b04.jpg",
+            "showBrand":"YVES SAINT LAURENT",
+            "isLine":1,
+            "tipPrice":"",
+            "brandCnName":"圣罗兰",
+            "name":"【包税】Yves saint Laurent/圣罗兰 黑鸦片女士淡香水30-50-90ML 新品",
+            "labels":[
+                "1955",
+                "1173",
+                "1186"
+            ],
+            "categoryId":1823,
+            "rType":null,
+            "priceTag":"",
+            "tipTag":""
+        },
+        {
+            "brandId":2418,
+            "id":26151828,
+            "brandEnName":"Nicholas Kirkwood",
+            "preSale":"",
+            "secooPrice":4422,
+            "tags":[
+                "海外",
+                "自营"
+            ],
+            "lableIoc":"",
+            "picUrl":"10/53/d58e5d63782640299c73c591fc15c001.jpg",
+            "showBrand":"NICHOLAS KIRKWOOD",
+            "isLine":0,
+            "tipPrice":"",
+            "brandCnName":"尼可拉斯·科克伍德",
+            "name":"【Designer Shoes】【折扣】 Nicholas Kirkwood/尼可拉斯·科克伍德 珍珠 亮面 牛津鞋/皮鞋 2807",
+            "labels":{
+
+            },
+            "categoryId":1591,
+            "rType":0,
+            "priceTag":"",
+            "tipTag":""
+        },
+        {
+            "brandId":2736,
+            "id":25963444,
+            "brandEnName":"AMI",
+            "preSale":"",
+            "secooPrice":1434,
+            "tags":[
+                "海外",
+                "自营"
+            ],
+            "lableIoc":"",
+            "picUrl":"56/99/8c58eeec9ceb412493f06588341fd1ba.jpg",
+            "showBrand":"AMI",
+            "isLine":0,
+            "tipPrice":"",
+            "brandCnName":"AMI",
+            "name":"【Designer Menwear】【折扣】 AMI/AMI 男士针织衫/毛衣 v领 开衫 2807",
+            "labels":{
+
+            },
+            "categoryId":1795,
+            "rType":0,
+            "priceTag":"",
+            "tipTag":""
+        },
+        {
+            "brandId":35,
+            "id":24374941,
+            "brandEnName":"Bottega Veneta",
+            "preSale":"",
+            "secooPrice":17894,
+            "tags":[
+                "海外",
+                "自营"
+            ],
+            "lableIoc":"",
+            "picUrl":"98/99/bc19d59399f34c83b4e740a363df20d3.jpg",
+            "showBrand":"BOTTEGA VENETA",
+            "isLine":0,
+            "tipPrice":"",
+            "brandCnName":"葆蝶家",
+            "name":"Bottega Veneta/葆蝶家 18年秋冬 男士 英伦 格子 灰色 男士大衣 517130#VEPQ0#1503",
+            "labels":[
+                "969"
+            ],
+            "categoryId":1682,
+            "rType":0,
+            "priceTag":"",
+            "tipTag":""
+        },
+        {
+            "brandId":361,
+            "id":26017554,
+            "brandEnName":"Etro",
+            "preSale":"",
+            "secooPrice":2892,
+            "tags":[
+                "海外",
+                "自营"
+            ],
+            "lableIoc":"",
+            "picUrl":"55/98/7b761121f56d41da9a2452fbc6f67aac.jpg",
+            "showBrand":"ETRO",
+            "isLine":0,
+            "tipPrice":"",
+            "brandCnName":"艾特罗",
+            "name":"【18春夏】 Etro/艾特罗 男士针织衫/毛衣 V领 时尚 蓝色 2807",
+            "labels":[
+                "969"
+            ],
+            "categoryId":1795,
+            "rType":0,
+            "priceTag":"",
+            "tipTag":""
+        },
+        {
+            "brandId":3962,
+            "id":29916926,
+            "brandEnName":"Daniel Wellington",
+            "preSale":"",
+            "secooPrice":1780,
+            "tags":[
+                "自营"
+            ],
+            "lableIoc":"",
+            "picUrl":"50/57/29c402c4d305450ebd18f6187ee40f0d.jpg",
+            "showBrand":"DANIEL WELLINGTON",
+            "isLine":0,
+            "tipPrice":"",
+            "brandCnName":"丹尼尔惠灵顿",
+            "name":"Daniel Wellington/丹尼尔惠灵顿DW女士金属表带手表dw手镯礼盒套装",
+            "labels":[
+                "1904",
+                "1810",
+                "1692",
+                "1343",
+                "1196"
+            ],
+            "categoryId":1152,
+            "rType":null,
+            "priceTag":"",
+            "tipTag":""
+        },
+        {
+            "brandId":268,
+            "id":26165051,
+            "brandEnName":"TOMMY HILFIGER",
+            "preSale":"",
+            "secooPrice":887,
+            "tags":[
+                "海外",
+                "自营"
+            ],
+            "lableIoc":"",
+            "picUrl":"52/48/403715c3a6f14474b57ccb98d7c6a631.jpg",
+            "showBrand":"TOMMY HILFIGER",
+            "isLine":0,
+            "tipPrice":"",
+            "brandCnName":"唐美.希绯格",
+            "name":"18年春夏 绿色 WW0WW20775_306",
+            "labels":{
+
+            },
+            "categoryId":1848,
+            "rType":0,
+            "priceTag":"",
+            "tipTag":""
+        },
+        {
+            "brandId":1992,
+            "id":39513037,
+            "brandEnName":"MARC NEW YORK",
+            "preSale":"",
+            "secooPrice":413,
+            "tags":[
+                "直降",
+                "自营"
+            ],
+            "lableIoc":"",
+            "picUrl":"55/51/73c1b9649735493d9b4bbda9404f3798.jpg",
+            "showBrand":"MARC NEW YORK",
+            "isLine":1,
+            "tipPrice":"",
+            "brandCnName":"MARC NEW YORK",
+            "name":"MARC NEW YORK/MARC NEW YORK 2018秋冬新款男士羽绒服 连帽领拉链单排扣保暖修身 D285",
+            "labels":[
+                "1955"
+            ],
+            "categoryId":1683,
+            "rType":null,
+            "priceTag":"",
+            "tipTag":""
+        },
+        {
+            "brandId":5,
+            "id":35322634,
+            "brandEnName":"GUCCI",
+            "preSale":"",
+            "secooPrice":7123,
+            "tags":[
+                "海外",
+                "自营"
+            ],
+            "lableIoc":"",
+            "picUrl":"53/10/5de8492a966e4b6eae28fb25d9408cfa.jpg",
+            "showBrand":"GUCCI",
+            "isLine":0,
+            "tipPrice":"",
+            "brandCnName":"古驰",
+            "name":"GUCCI/古驰 18秋冬新款Dionysus女士迷你米色帆布拼棕色麂皮链条单肩包",
+            "labels":[
+                "966",
+                "1641",
+                "1267",
+                "1218",
+                "1955",
+                "1364",
+                "1190",
+                "1909"
+            ],
+            "categoryId":31,
+            "rType":null,
+            "priceTag":"",
+            "tipTag":""
+        },
+        {
+            "brandId":6,
+            "id":23486998,
+            "brandEnName":"PRADA",
+            "preSale":"",
+            "secooPrice":4208,
+            "tags":[
+                "海外",
+                "自营"
+            ],
+            "lableIoc":"",
+            "picUrl":"98/51/b33cbf6c8844434b8c422f0e6a92479f.jpg",
+            "showBrand":"PRADA",
+            "isLine":0,
+            "tipPrice":"",
+            "brandCnName":"普拉达",
+            "name":"PRADA/普拉达 18年秋冬 商务正装鞋 平跟 经典 黑色 男士 2EB177P39 F0002",
+            "labels":{
+
+            },
+            "categoryId":1628,
+            "rType":0,
+            "priceTag":"",
+            "tipTag":""
+        },
+        {
+            "brandId":989,
+            "id":25264536,
+            "brandEnName":"PHILIPPE MODEL",
+            "preSale":"",
+            "secooPrice":1870,
+            "tags":[
+                "海外",
+                "自营"
+            ],
+            "lableIoc":"",
+            "picUrl":"56/98/8be4aa10ff1c44dc99063303fbfddea4.jpg",
+            "showBrand":"PHILIPPE MODEL",
+            "isLine":0,
+            "tipPrice":"",
+            "brandCnName":"PHILIPPE MODEL",
+            "name":"【Designer Shoes】【折扣】 PHILIPPE MODEL/PHILIPPE MODEL 时尚 板鞋 女士休闲运动鞋 3032",
+            "labels":[
+                "1903"
+            ],
+            "categoryId":1453,
+            "rType":0,
+            "priceTag":"",
+            "tipTag":""
+        },
+        {
+            "brandId":8629,
+            "id":23994344,
+            "brandEnName":"MARCELO BURLON COUNTY OF MILAN",
+            "preSale":"",
+            "secooPrice":1814,
+            "tags":[
+                "海外",
+                "自营"
+            ],
+            "lableIoc":"",
+            "picUrl":"97/57/a937275898e34697b164f92c1283d1b9.jpg",
+            "showBrand":"MARCELO BURLON COUNTY OF MILAN",
+            "isLine":0,
+            "tipPrice":"",
+            "brandCnName":"MARCELO BURLON COUNTY OF MILAN",
+            "name":"18年秋冬 男士 格子 字母 黑色 男士短袖T恤",
+            "labels":[
+                "1812"
+            ],
+            "categoryId":1734,
+            "rType":0,
+            "priceTag":"",
+            "tipTag":""
+        },
+        {
+            "brandId":197,
+            "id":39461713,
+            "brandEnName":"Lancome",
+            "preSale":"",
+            "secooPrice":949,
+            "tags":[
+                "海外",
+                "直降",
+                "自营"
+            ],
+            "lableIoc":"",
+            "picUrl":"99/57/c91337770d8343c99c97372b1019d0d4.jpg",
+            "showBrand":"LANCOME",
+            "isLine":1,
+            "tipPrice":"",
+            "brandCnName":"兰蔻",
+            "name":"【包税】Lancome/兰蔻 2018圣诞套盒礼盒彩妆套装 暖色系 11月下旬发货",
+            "labels":[
+                "1955"
+            ],
+            "categoryId":1820,
+            "rType":null,
+            "priceTag":"",
+            "tipTag":""
+        },
+        {
+            "brandId":984,
+            "id":24500416,
+            "brandEnName":"ISABEL MARANT ETOILE",
+            "preSale":"",
+            "secooPrice":1288,
+            "tags":[
+                "海外",
+                "自营"
+            ],
+            "lableIoc":"",
+            "picUrl":"51/10/3d8a4d47f1f5473a8dba93ef217e7e4d.jpg",
+            "showBrand":"ISABEL MARANT ETOILE",
+            "isLine":0,
+            "tipPrice":"",
+            "brandCnName":"ISABEL MARANT ETOILE",
+            "name":"ISABEL MARANT ETOILE/ISABEL MARANT ETOILE 18年秋冬 女士长袖T恤 logo 时尚 红色 女士 TS0441 18A026E70RD RED",
+            "labels":[
+                "1899",
+                "1809"
+            ],
+            "categoryId":1720,
+            "rType":0,
+            "priceTag":"",
+            "tipTag":""
+        },
+        {
+            "brandId":6,
+            "id":23290802,
+            "brandEnName":"PRADA",
+            "preSale":"",
+            "secooPrice":18289,
+            "tags":[
+                "海外",
+                "自营"
+            ],
+            "lableIoc":"",
+            "picUrl":"10/99/dcf52b6fe33d4f5a85dbe05ce422ccb5.jpg",
+            "showBrand":"PRADA",
+            "isLine":0,
+            "tipPrice":"",
+            "brandCnName":"普拉达",
+            "name":"【18年春夏】 普拉达/PRADA 女士 时尚 印花 女装",
+            "labels":{
+
+            },
+            "categoryId":1756,
+            "rType":0,
+            "priceTag":"",
+            "tipTag":""
+        },
+        {
+            "brandId":1347,
+            "id":35969770,
+            "brandEnName":"APPLE",
+            "preSale":"",
+            "secooPrice":9499,
+            "tags":[
+                "直降",
+                "自营"
+            ],
+            "lableIoc":"",
+            "picUrl":"10/10/ed74257318004102b7f1ee4c96d246d5.jpg",
+            "showBrand":"APPLE",
+            "isLine":1,
+            "tipPrice":"",
+            "brandCnName":"苹果",
+            "name":"Apple/苹果 iPhone XS Max 64GB A2104 苹果XS Max 移动联通电信4G手机 双卡双待",
+            "labels":[
+                "1501"
+            ],
+            "categoryId":2257,
+            "rType":null,
+            "priceTag":"",
+            "tipTag":""
+        },
+        {
+            "brandId":9,
+            "id":36282908,
+            "brandEnName":"CARTIER",
+            "preSale":"",
+            "secooPrice":8370,
+            "tags":[
+                "海外",
+                "自营"
+            ],
+            "lableIoc":"",
+            "picUrl":"54/52/64fa1d534f164705aa0000fcb4853508.jpg",
+            "showBrand":"CARTIER",
+            "isLine":0,
+            "tipPrice":"",
+            "brandCnName":"卡地亚",
+            "name":"CARTIER/卡地亚 经典款LOVE系列 玫瑰金色 戒指，窄款 B4085200",
+            "labels":[
+                "981"
+            ],
+            "categoryId":117,
+            "rType":null,
+            "priceTag":"",
+            "tipTag":""
+        },
+        {
+            "brandId":6638,
+            "id":24368263,
+            "brandEnName":"SAINT LAURENT PARIS",
+            "preSale":"",
+            "secooPrice":6370,
+            "tags":[
+                "海外",
+                "自营"
+            ],
+            "lableIoc":"",
+            "picUrl":"49/48/10ebe991dbdf414584fb9e4a024865eb.jpg",
+            "showBrand":"SAINT LAURENT PARIS",
+            "isLine":0,
+            "tipPrice":"",
+            "brandCnName":"SAINT LAURENT PARIS",
+            "name":"SAINT LAURENT PARIS/SAINT LAURENT PARIS 18年秋冬 高腰 女士 修身 简约 黑色 女士休闲裤 537652#Y512W#1000",
+            "labels":{
+
+            },
+            "categoryId":1727,
+            "rType":0,
+            "priceTag":"",
+            "tipTag":""
+        },
+        {
+            "brandId":5,
+            "id":38112057,
+            "brandEnName":"GUCCI",
+            "preSale":"",
+            "secooPrice":5104,
+            "tags":[
+                "海外",
+                "自营"
+            ],
+            "lableIoc":"",
+            "picUrl":"53/48/50e52f1085244e80ae8f1796e280cf75.jpg",
+            "showBrand":"GUCCI",
+            "isLine":0,
+            "tipPrice":"",
+            "brandCnName":"古驰",
+            "name":"GUCCI/古驰 18新款GG Supreme黑色帆布条纹织男士女士通用手拿包 475316 khn4c 1095",
+            "labels":[
+                "1218",
+                "1955",
+                "1364",
+                "1641",
+                "1614",
+                "1828",
+                "1853",
+                "1190",
+                "1909"
+            ],
+            "categoryId":37,
+            "rType":null,
+            "priceTag":"",
+            "tipTag":""
+        },
+        {
+            "brandId":36,
+            "id":38962158,
+            "brandEnName":"Yves saint Laurent",
+            "preSale":"",
+            "secooPrice":356,
+            "tags":[
+                "海外",
+                "直降",
+                "自营"
+            ],
+            "lableIoc":"",
+            "picUrl":"57/49/91db8f38d32e4fdda76ba2912c52c73f.jpg",
+            "showBrand":"YVES SAINT LAURENT",
+            "isLine":1,
+            "tipPrice":"",
+            "brandCnName":"圣罗兰",
+            "name":"【包税】Yves saint Laurent/圣罗兰 2018圣诞限量版黑金方管口红",
+            "labels":[
+                "1777",
+                "1955"
+            ],
+            "categoryId":2630,
+            "rType":null,
+            "priceTag":"",
+            "tipTag":""
+        },
+        {
+            "brandId":361,
+            "id":26037490,
+            "brandEnName":"Etro",
+            "preSale":"",
+            "secooPrice":1653,
+            "tags":[
+                "海外",
+                "自营"
+            ],
+            "lableIoc":"",
+            "picUrl":"97/98/abc518cf7550423598310452861d8f0a.jpg",
+            "showBrand":"ETRO",
+            "isLine":0,
+            "tipPrice":"",
+            "brandCnName":"艾特罗",
+            "name":"Etro/Etro 18秋冬 男士休闲裤 时尚 高腰 2807",
+            "labels":{
+
+            },
+            "categoryId":1742,
+            "rType":0,
+            "priceTag":"",
+            "tipTag":""
+        },
+        {
+            "brandId":33,
+            "id":25041964,
+            "brandEnName":"CHLOE",
+            "preSale":"",
+            "secooPrice":8693,
+            "tags":[
+                "海外",
+                "自营"
+            ],
+            "lableIoc":"",
+            "picUrl":"51/52/34af8604de764565aa4f52f75b252692.jpg",
+            "showBrand":"CHLOE",
+            "isLine":0,
+            "tipPrice":"",
+            "brandCnName":"克洛伊",
+            "name":"CHLOE/克洛伊 18年春夏 女士 链条包 百搭 黑色 斜挎包 CHC17SS231 H2O_001",
+            "labels":[
+                "1925"
+            ],
+            "categoryId":32,
+            "rType":0,
+            "priceTag":"",
+            "tipTag":""
+        },
+        {
+            "brandId":5,
+            "id":38487691,
+            "brandEnName":"GUCCI",
+            "preSale":"",
+            "secooPrice":2352,
+            "tags":[
+                "自营"
+            ],
+            "lableIoc":"",
+            "picUrl":"54/10/6e97496b7438461f9eaa66174f4d61ef.jpg",
+            "showBrand":"GUCCI",
+            "isLine":0,
+            "tipPrice":"",
+            "brandCnName":"古驰",
+            "name":"GUCCI/古驰 18秋冬 经典粉色羊毛提花毛边双面女士围巾 133483 3G200 1272",
+            "labels":[
+                "1364",
+                "1189",
+                "1218"
+            ],
+            "categoryId":1791,
+            "rType":null,
+            "priceTag":"",
+            "tipTag":""
+        },
+        {
+            "brandId":6638,
+            "id":25965537,
+            "brandEnName":"SAINT LAURENT PARIS",
+            "preSale":"",
+            "secooPrice":26955,
+            "tags":[
+                "海外",
+                "自营"
+            ],
+            "lableIoc":"",
+            "picUrl":"49/97/1a94dd2730d94391a97d25c91bdc0195.jpg",
+            "showBrand":"SAINT LAURENT PARIS",
+            "isLine":0,
+            "tipPrice":"",
+            "brandCnName":"SAINT LAURENT PARIS",
+            "name":"【18春夏】 SAINT LAURENT PARIS/ SAINT LAURENT PARIS 男士夹克 牛皮 时尚 百搭 黑色 3556",
+            "labels":{
+
+            },
+            "categoryId":1685,
+            "rType":0,
+            "priceTag":"",
+            "tipTag":""
+        },
+        {
+            "brandId":5,
+            "id":37276117,
+            "brandEnName":"GUCCI",
+            "preSale":"",
+            "secooPrice":1840,
+            "tags":[
+                "自营"
+            ],
+            "lableIoc":"",
+            "picUrl":"99/99/cc0986da9fbb47df8d2c5b06687c54e1.jpg",
+            "showBrand":"GUCCI",
+            "isLine":0,
+            "tipPrice":"",
+            "brandCnName":"古驰",
+            "name":"GUCCI/古驰 双G提花纯色羊毛真丝混纺围巾165904",
+            "labels":[
+                "1189",
+                "1364",
+                "1218",
+                "1267"
+            ],
+            "categoryId":1791,
+            "rType":null,
+            "priceTag":"",
+            "tipTag":""
+        },
+        {
+            "brandId":1125,
+            "id":27450034,
+            "brandEnName":"THOM BROWNE",
+            "preSale":"",
+            "secooPrice":4196,
+            "tags":[
+                "海外",
+                "自营"
+            ],
+            "lableIoc":"",
+            "picUrl":"10/99/ec2cf2b4b18c4a159353bcd87a9f9123.jpg",
+            "showBrand":"THOM BROWNE",
+            "isLine":0,
+            "tipPrice":"",
+            "brandCnName":"THOM BROWNE",
+            "name":"THOM BROWNE/THOM BROWNE 18年春夏 圆框 太阳镜 墨镜 复古 蓝色 女士 TB-106-C-NVYGLD50NAVY GOLD",
+            "labels":{
+
+            },
+            "categoryId":1779,
+            "rType":0,
+            "priceTag":"",
+            "tipTag":""
+        },
+        {
+            "brandId":6,
+            "id":27562776,
+            "brandEnName":"PRADA",
+            "preSale":"",
+            "secooPrice":3483,
+            "tags":[
+                "海外",
+                "自营"
+            ],
+            "lableIoc":"",
+            "picUrl":"51/10/3dfd7c848d2e4df3962cd6d261b6c43b.jpg",
+            "showBrand":"PRADA",
+            "isLine":0,
+            "tipPrice":"",
+            "brandCnName":"普拉达",
+            "name":"PRADA/普拉达 18年秋冬 断码 36 女士 时尚 尖头 黑色 平跟鞋 1F719H-F-B010#069#F0002",
+            "labels":{
+
+            },
+            "categoryId":1589,
+            "rType":0,
+            "priceTag":"",
+            "tipTag":""
+        },
+        {
+            "brandId":5183,
+            "id":26952692,
+            "brandEnName":"Ozwear ugg",
+            "preSale":"",
+            "secooPrice":758,
+            "tags":[
+                "海外",
+                "自营"
+            ],
+            "lableIoc":"",
+            "picUrl":"50/99/2c8d4df87bbd4fb3b363b2d77f1849d5.jpg",
+            "showBrand":"OZWEAR UGG",
+            "isLine":0,
+            "tipPrice":"",
+            "brandCnName":"Ozwear ugg",
+            "name":"Ozwear UGG小贝同款男士雪地靴牛绒面内里加厚羊毛防泼水鞋面 OB301",
+            "labels":[
+                "385",
+                "1955",
+                "1139"
+            ],
+            "categoryId":1653,
+            "rType":null,
+            "priceTag":"",
+            "tipTag":""
+        },
+        {
+            "brandId":6,
+            "id":24309043,
+            "brandEnName":"PRADA",
+            "preSale":"",
+            "secooPrice":1352,
+            "tags":[
+                "海外",
+                "自营"
+            ],
+            "lableIoc":"",
+            "picUrl":"10/48/d09d04052c71428e91c1226dcdffb0f7.jpg",
+            "showBrand":"PRADA",
+            "isLine":0,
+            "tipPrice":"",
+            "brandCnName":"普拉达",
+            "name":"PRADA/普拉达 19年春夏 卡片夹 简约 经典 黑色 男士 2MC223 2MB8_F0002",
+            "labels":{
+
+            },
+            "categoryId":2458,
+            "rType":0,
+            "priceTag":"",
+            "tipTag":""
+        },
+        {
+            "brandId":7427,
+            "id":26500855,
+            "brandEnName":"AMIRI",
+            "preSale":"",
+            "secooPrice":11616,
+            "tags":[
+                "海外",
+                "自营"
+            ],
+            "lableIoc":"",
+            "picUrl":"98/56/b8d4a70ebeab41ee9cb9ab0738efc38c.jpg",
+            "showBrand":"AMIRI",
+            "isLine":0,
+            "tipPrice":"",
+            "brandCnName":"AMIRI",
+            "name":"【18春夏】 AMIRI/AMIRI 女士牛仔裤 水洗 复古 4041",
+            "labels":{
+
+            },
+            "categoryId":1728,
+            "rType":0,
+            "priceTag":"",
+            "tipTag":""
+        },
+        {
+            "brandId":9099,
+            "id":25946518,
+            "brandEnName":"BOUTIQUE MOSCHINO",
+            "preSale":"",
+            "secooPrice":2072,
+            "tags":[
+                "海外",
+                "自营"
+            ],
+            "lableIoc":"",
+            "picUrl":"52/48/4041dc97a8c044c38d74934d8ebbf7c9.jpg",
+            "showBrand":"BOUTIQUE MOSCHINO",
+            "isLine":0,
+            "tipPrice":"",
+            "brandCnName":"BOUTIQUE MOSCHINO",
+            "name":"【18秋冬】 MOSCHINO BOUTIQUE/MOSCHINO BOUTIQUE 女士半身裙 短款 包臀裙 2807",
+            "labels":{
+
+            },
+            "categoryId":1757,
+            "rType":0,
+            "priceTag":"",
+            "tipTag":""
+        },
+        {
+            "brandId":315,
+            "id":27122140,
+            "brandEnName":"Moncler",
+            "preSale":"",
+            "secooPrice":7020,
+            "tags":[
+                "海外",
+                "自营"
+            ],
+            "lableIoc":"",
+            "picUrl":"49/48/10f0d882847f487696582d50607d087a.jpg",
+            "showBrand":"MONCLER",
+            "isLine":0,
+            "tipPrice":"",
+            "brandCnName":"蒙克莱",
+            "name":"Moncler/蒙克莱 18年秋冬 女士 英伦 横条 红色 女士羽绒服 45348.80.68950_438",
+            "labels":{
+
+            },
+            "categoryId":1708,
+            "rType":null,
+            "priceTag":"",
+            "tipTag":""
+        },
+        {
+            "brandId":6112,
+            "id":26165093,
+            "brandEnName":"J.W. Anderson",
+            "preSale":"",
+            "secooPrice":4232,
+            "tags":[
+                "海外",
+                "自营"
+            ],
+            "lableIoc":"",
+            "picUrl":"52/55/477e1a36c5d24db692d999a1b8160ee2.jpg",
+            "showBrand":"J.W. ANDERSON",
+            "isLine":0,
+            "tipPrice":"",
+            "brandCnName":"J.W. Anderson",
+            "name":"18年春夏 白色 TR31WS18_156001",
+            "labels":[
+                "1812",
+                "1906",
+                "969",
+                "1723"
+            ],
+            "categoryId":1727,
+            "rType":0,
+            "priceTag":"",
+            "tipTag":""
+        },
+        {
+            "brandId":2,
+            "id":39652414,
+            "brandEnName":"Louis Vuitton",
+            "preSale":"",
+            "secooPrice":3530,
+            "tags":[
+                "自营"
+            ],
+            "lableIoc":"",
+            "picUrl":"97/56/a85c48e72b8343d28e90225f244e59ac.jpg",
+            "showBrand":"LOUIS VUITTON",
+            "isLine":0,
+            "tipPrice":"",
+            "brandCnName":"路易威登",
+            "name":"Louis Vuitton/路易威登 MINI POCHETTE ACCESSOIRES 女士小手袋 N64451 帆布/配皮",
+            "labels":{
+
+            },
+            "categoryId":37,
+            "rType":null,
+            "priceTag":"",
+            "tipTag":""
+        },
+        {
+            "brandId":7279,
+            "id":40675737,
+            "brandEnName":"Champion",
+            "preSale":"",
+            "secooPrice":368,
+            "tags":[
+                "自营"
+            ],
+            "lableIoc":"",
+            "picUrl":"56/55/87b84a252ca54a2d83402a19b5cbc673.jpg",
+            "showBrand":"CHAMPION",
+            "isLine":0,
+            "tipPrice":"",
+            "brandCnName":"Champion",
+            "name":"Champion 冠军 经典18秋冬加厚连帽套头卫衣袖标刺绣男女情侣款S700-2 美版尺码偏大 建议拍小一码",
+            "labels":[
+                "1893"
+            ],
+            "categoryId":1301,
+            "rType":null,
+            "priceTag":"",
+            "tipTag":""
+        }
+    ],
+    "retCode":0
+}

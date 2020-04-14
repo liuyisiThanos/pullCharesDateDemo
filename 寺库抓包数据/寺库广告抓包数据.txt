@@ -1,0 +1,11 @@
+{
+    "startTime":1544198400000,
+    "retCode":0,
+    "endTime":1544371200000,
+    "imageUrl":"https://pic12.secooimg.com/appcategory/18/12/10bee62310a0427e91d073fd1e15e2ee.jpg",
+    "retMsg":"successfull",
+    "second":5,
+    "isShowLogo":1,
+    "topicUrl":"https://las.secoo.com/api/topic/topic_list_new?id=43055&pageid=topicNew/43055",
+    "resetSeconds":600000
+}

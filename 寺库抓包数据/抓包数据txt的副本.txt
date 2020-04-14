@@ -1,0 +1,45 @@
+{
+    "code":1,
+    "data":{
+        "stateCode":1,
+        "message":"成功",
+        "returnData":{
+            "comic":{
+                "name":"请勿擅自签订契约",
+                "comic_id":"85740",
+                "short_description":"少女！签订契约吧！",
+                "accredit":2,
+                "cover":"http://cover.u17i.com/2016/01/4803883_1452436459_IvPipdWI0959.sbig.jpg",
+                "is_vip":3,
+                "type":"0",
+                "ori":"http://cover.u17i.com/temp/2016/01/4803883_1452436459_IvPipdWI0959.jpg",
+                "theme_ids":[
+                    "少年",
+                    "科幻",
+                    "推理"
+                ],
+                "series_status":"0",
+                "last_update_time":1544334166,
+                "description":"【每周日更】】刚刚考上高中的卓凛遇上了神的使者，阴差阳错成为了神的继承人。在自己的世界遭到入侵的情况下，进入【契约大会】为了挽救自己的世界不被其他神吞并而努力。",
+                "cate_id":"故事漫画",
+                "status":2,
+                "thread_id":"5695271",
+                "last_update_week":"",
+                "wideCover":"http://cover.u17i.com/2018/10/12683783_1539673045_1EbDp11hpy81.ubig.jpg",
+                "classifyTags":Array[3],
+                "is_week":1,
+                "level":"S级",
+                "author":{
+                    "avatar":"http://k.avatar.u17i.com/2014/0918/4803883_ab81783c3761390698e91db677d2fa8d_1411021198.big.jpg",
+                    "name":"赵迎乐",
+                    "id":"4803883"
+                },
+                "is_dub":0
+            },
+            "chapter_list":Array[174],
+            "otherWorks":[
+
+            ]
+        }
+    }
+}

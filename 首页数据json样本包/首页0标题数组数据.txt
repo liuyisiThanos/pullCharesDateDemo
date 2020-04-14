@@ -1,0 +1,60 @@
+{
+    "backImg":"",
+"backImgStatus":0,
+"fontNormalColor":"#333333",
+"fontSelectedColor":"#61D8D0",
+"backgroundColor":"#f8f8f8",
+"progressBgColor":"#FB4C72",
+    "list":[
+        {
+            "seatIndex":6,
+            "codeId":1,
+            "img":"",
+            "url":"https://las.secoo.com/api/home/home_page?code=1&mark=0",
+            "type":0,
+            "startDate":1541952000000,
+            "title":"商城",
+            "isImg":1
+        },
+        {
+            "seatIndex":7,
+            "codeId":178,
+            "img":"",
+            "url":"https://las.secoo.com/api/home/home_page?code=178&mark=1",
+            "type":0,
+            "startDate":1541952000000,
+            "title":"奢移品",
+            "isImg":1
+        },
+        {
+            "seatIndex":8,
+            "codeId":2,
+            "img":"",
+            "url":"https://las.secoo.com/api/home/home_page?code=2&mark=1",
+            "type":0,
+            "startDate":1541952000000,
+            "title":"潮流尖货",
+            "isImg":1
+        },
+        {
+            "seatIndex":9,
+            "codeId":180,
+            "img":"",
+            "url":"https://las.secoo.com/api/home/home_page?code=180&mark=1",
+            "type":0,
+            "startDate":1543766400000,
+            "title":"吃喝玩乐",
+            "isImg":1
+        },
+        {
+            "seatIndex":10,
+            "codeId":236,
+            "img":"",
+            "type":1,
+            "url":"https://las.secoo.com/api/topic/topic_list_new?id=38200&pageid=topicNew/38200&titlebar=1",
+            "startDate":1541952000000,
+            "title":"中国名物",
+            "isImg":1
+        }
+    ]
+}
